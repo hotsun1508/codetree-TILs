@@ -13,3 +13,5 @@ for i in range(10):
         cnt += 1
     
 print(sum_val, round(sum_val/cnt, 1))
+
+# print(f"{sum_val} {avg:.1f}") -> python formatting으로도 소수점 표현 가능

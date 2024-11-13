@@ -11,4 +11,5 @@ for i in range(n):
     sumval += i
     cnt += 1
 
-print(sumval, round(sumval/cnt, 1))
+# print(sumval, round(sumval/cnt, 1))
+print(f"{sumval} {sumval/cnt:.1f}")

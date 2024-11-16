@@ -1,6 +1,7 @@
-n = int(input())
+# Time Complexity: O(n)
 
-division = n
+division = int(input())
+
 i = 1
 
 while True: 

@@ -1,4 +1,4 @@
-# Time Complexity: O()
+# Time Complexity: O(1)
 
 cnt = 0
 while True: 

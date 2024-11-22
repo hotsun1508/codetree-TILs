@@ -1,4 +1,4 @@
-# Time Complexity: O()
+# Time Complexity: O(n)
 
 
 while True: 

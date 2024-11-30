@@ -17,4 +17,6 @@ while(True):
 
 if cnt > 0:
     # print(round(sum_age/cnt, 2))
+    # print("{:.2f}".format(round(sum_age / cnt, 2)))
     print(f"{sum_age/cnt:.2f}")
+    

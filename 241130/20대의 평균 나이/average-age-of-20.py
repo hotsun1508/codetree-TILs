@@ -1,8 +1,7 @@
 # Time Complexity: O(n)
     # In the worst case, the loop runs for all n input values, 
     # and each iteration involves  O(1) operations (condition check, summation, and increment).
-
-O(n \times O(1)) = O(n)
+    # Therefore, the total complexity is: O(n * O(1)) = O(n)
 
 
 sum_age, cnt = 0, 0

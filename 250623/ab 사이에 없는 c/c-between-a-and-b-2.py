@@ -9,6 +9,7 @@ for i in range(a, b+1):
     # c로 나누어 떨어지는 숫자가 하나라도 있으면 False 
     else: 
         satisfied = False
+        break
 
 if satisfied == True:
     print("YES")

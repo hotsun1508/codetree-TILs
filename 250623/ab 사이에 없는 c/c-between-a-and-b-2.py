@@ -11,7 +11,9 @@ for i in range(a, b+1):
         satisfied = False
         break
 
-if satisfied == True:
+# if satisfied == True: 
+# 이렇게 쓰기도 가능 
+if (satisfied):
     print("YES")
 else:
     print("NO")

@@ -7,10 +7,12 @@ for i in range(a, b+1):
         # 8: 1, 2, 4, 8
         # 10: 1, 2, 5, 10 
         # 공약수: 2 
-    if a % i == 0 and b % i == 0:  
+    if 1920 % i == 0 and 2880 % i == 0:  
         satisfied = True
     
 
 if satisfied == True:
     print(1)
+else: 
+    0
 

@@ -14,5 +14,5 @@ for i in range(a, b+1):
 if satisfied == True:
     print(1)
 else: 
-    0
+    print(0)
 

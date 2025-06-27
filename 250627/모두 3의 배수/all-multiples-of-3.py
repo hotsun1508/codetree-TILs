@@ -18,3 +18,10 @@ if satisfied == True:
 else:
     print(0)
 
+
+# 참고: 이렇게 간단한 방법도 있었네...
+# for _ in range(5):
+#     # 모든 수가 3의 배수인지 확인합니다.
+#     a = int(input())
+#     if a % 3 != 0:
+#         satisfied = False

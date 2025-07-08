@@ -16,13 +16,7 @@ n = int(input())
 #     print()
 
 
-# # 방법 2 
-# if n%2 == 0:
-#     star = n/2
-# else:
-#     star = int((n+1)/2)
-
-# cnt = 2*n -1 
+# 방법 2 
 cnt = 1
 # print("cnt :", cnt)
 
